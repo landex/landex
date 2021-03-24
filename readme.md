@@ -14,9 +14,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle%2011%20G-F80000?style=curve-square&logo=oracle&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl%205-blue?style=curve-square&logo=perl&logoColor=purple)
 ![Bash](https://img.shields.io/badge/Bash%20$_-black?style=curve-square&logo=bash&logoColor=purple)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=curve-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=curve-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=curve-square&logo=visual-studio-code&logoColor=white)
 
 <!---
 landex/landex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
