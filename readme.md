@@ -16,7 +16,7 @@
 ![Bash](https://img.shields.io/badge/Bash%20$_-black?style=curve-square&logo=bash&logoColor=purple)
 ![Git](https://img.shields.io/badge/-Git-black?style=curve-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=curve-square&logo=github)
-![Kubernetes](https://img.shields.io/badge/-Docker-blue?style=curve-square&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=curve-square&logo=kubernetes&logoColor=white)
 ![OpenSuse](https://img.shields.io/badge/-OpenSuse-green?style=curve-square&logo=OpenSuse&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=curve-square&logo=Docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=curve-square&logo=visual-studio-code&logoColor=white)
