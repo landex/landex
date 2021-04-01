@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-00008b?style=curve-square&logo=linux&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle%2011%20G-F80000?style=curve-square&logo=oracle&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl%205-blue?style=curve-square&logo=perl&logoColor=purple)
-![Bash](https://img.shields.io/badge/Bash%20$_-green?style=curve-square&logo=bash&logoColor=purple)
+![Bash](https://img.shields.io/badge/Bash%20$_-black?style=curve-square&logo=bash&logoColor=purple&?labelColor=green)
 ![Git](https://img.shields.io/badge/-Git-black?style=curve-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=curve-square&logo=github)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=curve-square&logo=kubernetes&logoColor=white)
