@@ -19,7 +19,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=curve-square&logo=kubernetes&logoColor=white)
 ![OpenSuse](https://img.shields.io/badge/-OpenSuse-green?style=curve-square&logo=OpenSuse&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=curve-square&logo=Docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=curve-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-white?style=curve-square&logo=visual-studio-code&logoColor=blue)
 
 <!---
 landex/landex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
