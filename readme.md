@@ -9,7 +9,7 @@
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-FFF000?style=curve-square&logo=python&logoColor=purple)
-![Ruby](https://img.shields.io/badge/-Ruby-9B111E?style=curve-square&logo=ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-Black?style=curve-square&logo=ruby)
 ![Linux](https://img.shields.io/badge/-Linux-00008b?style=curve-square&logo=linux&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle%2011%20G-F80000?style=curve-square&logo=oracle&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl%205-blue?style=curve-square&logo=perl&logoColor=purple)
