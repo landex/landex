@@ -19,6 +19,8 @@
 ![OpenSuse](https://img.shields.io/badge/-OpenSuse-green?style=curve-square&logo=OpenSuse&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=curve-square&logo=Docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-white?style=curve-square&logo=visual-studio-code&logoColor=blue)
+![PowerShell](https://img.shields.io/endpoint?color=Blue&label=PowerShell&logo=PowerShell&logoColor=Red&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpowershell%2F)
+![Windows]
 
 <!---
 landex/landex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
