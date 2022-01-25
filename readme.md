@@ -14,13 +14,17 @@
 ![Oracle](https://img.shields.io/badge/Oracle%2011%20G-F80000?style=curve-square&logo=oracle&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl%205-blue?style=curve-square&logo=perl&logoColor=purple)
 ![Bash](https://img.shields.io/badge/Bash%20$_-green?style=curve-square&logo=bash&color=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=curve-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=curve-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=curve-square&logo=github)
 ![OpenSuse](https://img.shields.io/badge/-OpenSuse-green?style=curve-square&logo=OpenSuse&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=curve-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=curve-square&logo=kubernetes&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-white?style=curve-square&logo=visual-studio-code&logoColor=blue)
-![PowerShell](https://img.shields.io/endpoint?color=Blue&label=PowerShell&logo=PowerShell&logoColor=Red&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpowershell%2F)
-![Windows]
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=curve-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=curve-square&logo=Postman&logoColor=white)
 
 <!---
 landex/landex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
