@@ -13,7 +13,7 @@ Full stack testing needs to begin in parallel wwith delevopment and be practiced
 Shif-left testing suggest shifting the testing activities to the beginning of the cycle instead to produce hight-quality results.
 
 | :arrow_right: Requirements :arrow_right: Design :arrow_right: Code :arrow_right: Test :arrow_right: Release :arrow_right: |
-
+|-----|
 | :arrow_left: Shift-left testing :arrow_left: |
-
+|---|
 
