@@ -15,5 +15,5 @@ Shif-left testing suggest shifting the testing activities to the beginning of th
 | :arrow_right: Requirements :arrow_right: Design :arrow_right: Code :arrow_right: Test :arrow_right: Release :arrow_right: |
 |-----|
 | :arrow_left: Shift-left testing :arrow_left: |
-|---|
+
 
